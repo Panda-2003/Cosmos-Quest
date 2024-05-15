@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Ethical Hacking<br>👯 I’m looking to collaborate as an ethical hacker with tech giants like Google, Microsoft and Sprinklr <br>🤝 I’m looking for help with developing chrome extension<br>🌱 I’m currently learning chrome extension manifest v3 & flutter<br>💬 Ask me about coding and system penetration<br>⚡ Fun fact- I am lazy but SMART
+🔭 I’m currently working on Frontend Web Development👯 I’m looking to collaborate as a software engineer with tech giants like Google, Microsoft and Sprinklr <br>🤝 I’m looking for help with developing chrome extension<br>🌱 I’m currently learning chrome extension manifest v3 & flutter<br>💬 Ask me about coding and system penetration<br>⚡ Fun fact- I am lazy but SMART
 
 
 ## 🌐 Socials:
